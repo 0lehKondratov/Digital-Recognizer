@@ -1,0 +1,4 @@
+[core]
+    remote = digital-recognizer
+['remote "digital-recognizer"']
+    url = https://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@github.com/0lehKondratov/Digital-Recognizer.git
